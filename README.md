@@ -15,7 +15,7 @@
 `Product->Scheme->Edit Scheme-> Run -> Arguments`
 
 ![Xcode Xcode, Today at 11.49.55 P](http://7xpsn4.com1.z0.glb.clouddn.com/2016-09-15-Xcode Xcode, Today at 11.49.55 PM.png)
-
+--
 #####三、开启注释
 打开终端，运行如下命令，然后重启Xcode：
 ``` sudo /usr/libexec/xpccachectl```
